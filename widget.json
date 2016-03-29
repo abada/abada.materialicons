@@ -1,0 +1,13 @@
+{
+	"id": "abada.materialicons",
+	"name": "abada.materialicons",
+	"description" : "An Alloy widget creates an icon label using Google material  icons https://design.google.com/icons/ .",
+	"author": "Abada Henno",
+	"version": "1.0.0",
+	"copyright":"Copyright (c) 2016",
+  "license":"Apache License, Version 2.0",
+	"min-alloy-version": "1.3",
+	"min-titanium-version":"3.2",
+	"tags":"icons,label,fonticon",
+	"platforms":"android,ios"
+}
