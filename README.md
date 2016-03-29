@@ -12,6 +12,9 @@ The widget provides a simple [Google material icons](https://design.google.com/i
 * It can be styled like a normal label.
 * Supported events.
 
+## Screenshot
+![Screenshot](https://raw.github.com/abada/abada.materialicons/master/docs/screenshot.png)
+
 ## Quick Start [![gitTio](http://gitt.io/badge.png)](http://gitt.io/component/abada.materialicons)
 * Use `gittio install com.rolandschwan.iconlabel` to install via [gitTio](http://gitt.io/cli) or:
 
