@@ -16,7 +16,7 @@ The widget provides a simple [Google material icons](https://design.google.com/i
 ![Screenshot](https://raw.github.com/abada/abada.materialicons/master/docs/screenshot.png)
 
 ## Quick Start [![gitTio](http://gitt.io/badge.png)](http://gitt.io/component/abada.materialicons)
-* Use `gittio install com.rolandschwan.iconlabel` to install via [gitTio](http://gitt.io/cli) or:
+* Use `gittio install abada.materialicons` to install via [gitTio](http://gitt.io/cli) or:
 
   * Download the latest [release](https://github.com/abada/abada.materialicons/releases) of the widget.
   * Unzip the folder to your project under `app/widgets/abada.materialicons`.
